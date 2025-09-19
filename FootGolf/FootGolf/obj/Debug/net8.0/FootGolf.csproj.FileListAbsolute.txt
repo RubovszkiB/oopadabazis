@@ -1,0 +1,16 @@
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\FootGolf.exe
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\fob2016.txt
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\FootGolf.deps.json
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\FootGolf.runtimeconfig.json
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\FootGolf.dll
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\bin\Debug\net8.0\FootGolf.pdb
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.AssemblyInfoInputs.cache
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.AssemblyInfo.cs
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.csproj.CoreCompileInputs.cache
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.sourcelink.json
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.dll
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\refint\FootGolf.dll
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.pdb
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\FootGolf.genruntimeconfig.cache
+C:\Users\rbalazs\Desktop\oopadabazis\oopadabazis\FootGolf\FootGolf\obj\Debug\net8.0\ref\FootGolf.dll
